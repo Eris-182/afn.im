@@ -12,8 +12,8 @@
 <main>
 	<Hero />
 	<About />
-	// <Art />
-	// <Repos />
-	// <Supporters />
+	<!-- <Art /> -->
+	<!-- <Repos /> -->
+	<!-- <Supporters /> -->
 	<Footer />
 </main>
